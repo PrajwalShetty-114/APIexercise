@@ -33,7 +33,7 @@ All data is fetched from: [https://secrets-api.appbrewery.com](https://secrets-a
 
 ---
 
-## 📁 Project Structure (Assumed)
+## 📁 Project Structure 
 ```
  project-folder/
  ├── public/
